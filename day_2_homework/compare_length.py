@@ -5,3 +5,4 @@
 # - Print "secondArrayOfNumbers is longer" if `secondArrayOfNumbers` has more
 #   elements than `firstArrayOfNumbers`
 # - Otherwise print: "firstArrayOfNumbers is the longer one"
+
