@@ -2,7 +2,7 @@
 
 ## Házi feladat vagy mi
 
-Feldobtam a [day_3_homework] mappába 5 gyakorló feladatot. Ezek már egy kicsit nehezebbek, sőt, de simán meg lehet őket csinálni, csak gondolkozni kell rajta.
+Feldobtam a [day_3_homework] (https://github.com/Storno00/laci_exercises/tree/main/day_3_homework) mappába 5 gyakorló feladatot. Ezek már egy kicsit nehezebbek, sőt, de simán meg lehet őket csinálni, csak gondolkozni kell rajta.
 (https://github.com/Storno00/laci_exercises/tree/main/day_3_homework)
 
 ## Segítség
